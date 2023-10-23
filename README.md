@@ -1,4 +1,8 @@
 # 4AIRD_LRTL
 Luis Roberto Tenorio Lobato
 
-Este codigo crea un laberinto en python
+Estos codigos crean un laberinto en python
+
+El primer codigo es la primera version
+
+La segunda se integra un nuevo script al codigo
