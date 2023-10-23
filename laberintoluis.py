@@ -79,3 +79,4 @@ else:
     print("No se encontró un camino hacia el objetivo.")
 # Esperamos al usuario
 input("presione enter para salir")
+
